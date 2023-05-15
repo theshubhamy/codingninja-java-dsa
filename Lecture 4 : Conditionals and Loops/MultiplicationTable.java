@@ -1,4 +1,10 @@
-package assignments;
+// Write a program to print multiplication table of n
+// Input Format :
+// A single integer, n
+// Output Format :
+// First 10 multiples of n each printed in new line
+// Constraints :
+// 0 <= n <= 10,000
 import java.util.Scanner;
 public class MultiplicationTable {
     public static void main(String[] args) {

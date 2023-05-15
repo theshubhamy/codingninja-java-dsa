@@ -1,7 +1,17 @@
-package Lecture5;
+// Print the following pattern for the given N number of rows.
+// Pattern for N = 4
+// 4444
+// 4444
+// 4444
+// 4444
+// Input format :
+// Integer N (Total no. of rows)
+// Output format :
+// Pattern in N lines
+// Constraints
+// 0 <= N <= 50
 import java.util.Scanner;
-//Print the following pattern for the given N number of rows.
-//n=4
+
 public class SquarePatterns {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
